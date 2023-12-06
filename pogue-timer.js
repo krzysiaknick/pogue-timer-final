@@ -27,7 +27,7 @@ function countdown() {
     if (time < 60)
     showSeconds = true
 
-    else if (time < 0) {
+    if (time < 0) {
         clearInterval(countdownInterval);
         countdownInterval = null;
         var snd = new Audio('/sound.mp3');
