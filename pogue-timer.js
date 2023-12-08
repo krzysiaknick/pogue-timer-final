@@ -30,7 +30,7 @@ function countdown() {
     if (time < 0) {
         clearInterval(countdownInterval);
         countdownInterval = null;
-        var snd = new Audio('/sound.mp3');
+        var snd = new Audio('sound.mp3');
         snd.play();
     }
 }
