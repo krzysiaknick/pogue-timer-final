@@ -23,7 +23,7 @@ To use Pogue Timer simply navigate to the web app at https://krzysiaknick.github
 -Alarm noise when time is up.
 
 
-## Finished product as of 12/8/2023
+# Finished product as of 12/8/2023
 ## Final imlimentation includes the following Features
 
 -Working timer which shows time remaining in Minutes\
