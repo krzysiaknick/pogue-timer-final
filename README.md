@@ -10,7 +10,7 @@ ChatGPT was used to debug along the way.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## User Instructions
-To use Pogue Timer simply navigate to the web app at https://krzysiaknick.github.io/pogue-timer-final/\
+To use Pogue Timer simply navigate to the web app at https://krzysiaknick.github.io/pogue-timer-final/ \
 -Use the dropdown to select a time and press enter to confim\
 -Press the play button when you wish for the timer to start counting down\
 -Use the pause button to stop the countdown whenever you may need. \
