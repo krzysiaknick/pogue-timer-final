@@ -23,21 +23,21 @@ To use Pogue Timer simply navigate to the web app at https://krzysiaknick.github
 -Alarm noise when time is up.
 
 
-## Finished product as of 12/8/2023\
-## Final imlimentation includes the following Features\
+## Finished product as of 12/8/2023
+## Final imlimentation includes the following Features
 
 -Working timer which shows time remaining in Minutes\
 -Simple and easy to use interface\
 -Preset time intervals for quick access\
 -Alarm when time is up\
 -A button which allows the user to show seconds remaining as well\
--Pause and Play buttons suing Google fonts API\
+-Pause and Play buttons suing Google fonts API
 
-## Features I removed\
+## Features I removed
 -User input box\
--Reset Button\
+-Reset Button
 
-## What I would like to add in the future\
+## What I would like to add in the future
 -Manual user input box\
 -Reset button\
 -Quick access buttons for time selection without having to manualy press the enter button\
